@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AndrewKMwangi
-- 👀 I’m interested in Software Development, ML + AI
+- 👋 Hi, I’m Andrew Mwangi
+- 👀 I AM a Software Developer, ML + AI
 - 🌱 I’m currently learning Data Science & Cloud Architect
 - 📫 How to reach me kmwangi2000@gmail.com
 
