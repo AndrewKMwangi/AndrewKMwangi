@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewKMwangi
-- 👀 I’m interested in Software Development, Cloud Architect + AI
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Software Development, ML + AI
+- 🌱 I’m currently learning Data Science & Cloud Architect
 - 📫 How to reach me kmwangi2000@gmail.com
 
 <!---
