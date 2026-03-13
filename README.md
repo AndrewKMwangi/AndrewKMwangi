@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Andrew Mwangi
-- 👀 I AM a Software Developer, ML + AI
-- 🌱 I’m currently learning Data Science & Cloud Architect
-- 📫 How to reach me kmwangi2000@gmail.com
+- Hi, I’m Andrew Mwangi
+- I AM a Cloud Architect, 
+- I’m currently learning ML + AI
+- How to reach me kmwangi2000@gmail.com
 
 <!---
 AndrewKMwangi/AndrewKMwangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
