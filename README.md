@@ -2,6 +2,7 @@
 - I AM a Cloud & Platform Architect, 
 - I’m currently learning ML + AI
 - How to reach me kmwangi2000@gmail.com
+- https://www.linkedin.com/in/andrewkmwangi
 
 <!---
 AndrewKMwangi/AndrewKMwangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
