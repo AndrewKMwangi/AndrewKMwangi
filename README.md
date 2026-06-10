@@ -1,5 +1,5 @@
 - Hi, I’m Andrew Mwangi
-- I AM a Cloud Architect, 
+- I AM a Cloud & Platform Architect, 
 - I’m currently learning ML + AI
 - How to reach me kmwangi2000@gmail.com
 
