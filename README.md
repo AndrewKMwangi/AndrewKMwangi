@@ -10,11 +10,11 @@ I build, scale, and optimize resilient cloud infrastructure and developer platfo
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Platform & Orchestration** | Kubernetes, Docker, Nomad, OpenShift |
+| **Platform & Orchestration** | Kubernetes, Docker, OpenShift |
 | **Infrastructure as Code** | Terraform|
 | **CI/CD Pipelines** | GitHub Actions, GitLab CI, ArgoCD, Harness |
 | **Observability & AIOps** | Prometheus, Grafana, Datadog, ELK, Dynatrace |
-| **Cloud Providers** | AWS, Azure, GCP |
+| **Cloud Providers** | AWS, Azure, GCP(Currently learning) |
 | **Scripting & Automation** | Python, Go, Bash |
 
 ---
