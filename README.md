@@ -1,7 +1,7 @@
 Hi, I'm Andrew Mwangi 
 DevOps & Platform Engineer | Learning AIOps
 
-I build, scale, and optimize resilient cloud infrastructure and developer platforms. Currently, I am expanding my expertise into AIOps to integrate intelligent, data-driven automation into continuous delivery and observability workflows.
+**I build, scale, and optimize resilient cloud infrastructure and developer platforms. Currently, I am expanding my expertise into AIOps to integrate intelligent, data-driven automation into continuous delivery and observability workflows.**
 ---
 Tech Stack & Ecosystem
 
