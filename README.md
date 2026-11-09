@@ -1,6 +1,6 @@
 - Hi, I’m Andrew Mwangi
-- I AM a Cloud & Platform Architect, 
-- I’m currently learning ML + AI
+- I AM a DevOps & Platform Engineer, 
+- I’m currently learning ML + AIOps
 - How to reach me kmwangi2000@gmail.com
 - https://www.linkedin.com/in/andrewkmwangi
 
